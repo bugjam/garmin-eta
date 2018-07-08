@@ -1,0 +1,9 @@
+<strings>
+    <string id="AppName">ETA</string>
+    <string id="Label">ETA</string>
+    <string id="TargetDistanceTitle">Afstand</string>
+    <string id="TargetDistanceError">Indtast afstand til destinationen i km</string>
+    <string id="TargetDistanceNotSet">---</string>
+    <string id="TargetDistanceReached">Nu</string>
+    <string id="ElapsedDistanceNotSet">Afsted!</string>
+</strings>
